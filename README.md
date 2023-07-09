@@ -24,3 +24,4 @@ To run rabbitMQ:
   docker run -it --rm --name rabbitmq -p 5672:5672 -p 15672:15672 rabbitmq:3.12-management
 
 You need to have local mongoDB installed
+  you can install it from: https://www.mongodb.com/try/download/community
