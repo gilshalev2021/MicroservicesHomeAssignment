@@ -2,7 +2,8 @@
 
 Currently, you need to run the solution locally, from the IDE:
 
-(later on I'll add an option to run all the services: microserviceA, microserviceB, mongoDB and rabbitMQ as dockers, under docker-compose)
+(later on I'll add an option to run all the client and the services: 
+microserviceA, microserviceB, mongoDB and rabbitMQ as dockers, under docker-compose)
 
 To run cync-client:
   run npm i
